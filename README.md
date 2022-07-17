@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana Carolina
+## Olá! Eu sou a Ana Carolina, Analista de Testes e Qualidade de Software / QA!
 <div align="center">
   <a href="https://github.com/AnaCarolina-QA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolina-QA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
